@@ -1,0 +1,17 @@
+HTML:
+-basic boilerplate with link to css style sheet
+-body to hold title and insructions. 
+-main to contatin text input which will be evaluated for spam.
+-button to submit and run js logic
+-footer for branding, script to link js logic.
+
+CSS:
+-before / after I still don't really understand
+-root to hold color variables
+-basic aligment and styling
+-hover to change the button color
+
+JS:
+-declare variables for input, result field and button.
+-Declare a host of regular expressions which we will check against the input to see if it is spam. We will store this in an array. 
+-check the message to see if any of the regex expressions are in it, if so it declares spam.
